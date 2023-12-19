@@ -360,11 +360,11 @@ span{
     
 }
 
-.icon{
+. container .icon{
     margin: 20px 0;
     color: var(--text-color);
 }
-.icon i{
+.container .icon i{
     height: 50px;
     width: 50px;
     margin: 0 5px;
