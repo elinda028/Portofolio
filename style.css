@@ -360,11 +360,14 @@ span{
     
 }
 
-. container .icon{
+.contact-list{
     margin: 20px 0;
     color: var(--text-color);
+    list-style: none;
+    padding: 0;
+    text-align: center;
 }
-.container .icon i{
+.contact-list i{
     height: 50px;
     width: 50px;
     margin: 0 5px;
@@ -375,7 +378,17 @@ span{
     border-radius: 50%;
     color: var(--main-color);
     justify-content: center;
-    margin: 20px 0;
+    margin-right: 5px;
+}
+
+.contact-list li{
+    display: inline-block;
+    margin: 10px;
+}
+
+.contact-lista{
+    text-decoration: none;
+    color: var(--main-color);
 }
 
 
