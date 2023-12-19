@@ -386,7 +386,7 @@ span{
     margin: 10px;
 }
 
-.contact-lista{
+.contact-list a{
     text-decoration: none;
     color: var(--main-color);
 }
