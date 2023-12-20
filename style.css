@@ -375,8 +375,6 @@ span{
     justify-content: space-between;
     align-items: center;
     border: 1px solid var(--main-color);
-    border-radius: 50%;
-    color: var(--main-color);
     justify-content: center;
     margin-right: 5px;
 }
