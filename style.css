@@ -348,7 +348,7 @@ span{
     width: 50%;
 }
 
-.container .icon{
+.contact-list{
     display: flex;
     justify-content: center;
     align-items: center;
@@ -367,7 +367,7 @@ span{
     padding: 0;
     text-align: center;
 }
-.contact-list i{
+.contact-list a{
     height: 50px;
     width: 50px;
     margin: 0 5px;
