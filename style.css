@@ -348,7 +348,8 @@ span{
     width: 50%;
 }
 
-.contact-list{
+. container {
+    margin-top: 45px
     display: flex;
     justify-content: center;
     align-items: center;
@@ -369,7 +370,7 @@ span{
 }
 .contact-list a{
     height: 50px;
-    width: 50px;
+    width: 70px;
     margin: 0 5px;
     display: inline-flex;
     justify-content: space-between;
@@ -377,6 +378,7 @@ span{
     border: 1px solid var(--main-color);
     justify-content: center;
     margin-right: 5px;
+    border-radius:30%
 }
 
 .contact-list li{
